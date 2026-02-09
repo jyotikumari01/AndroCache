@@ -5,7 +5,7 @@ import java.io.File
 
 /** Because disk eviction always works like this:
 
-👉 “Remove oldest files until directory size ≤ maxSize”
+“Remove oldest files until directory size ≤ maxSize”
 
 This is universal and NOT customizable in the same way memory eviction is
  **/

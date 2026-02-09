@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroCache"
 include(":app")
+include(":app:androCache")
